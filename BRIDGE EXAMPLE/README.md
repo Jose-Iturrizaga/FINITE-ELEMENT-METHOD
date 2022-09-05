@@ -1,4 +1,4 @@
-![](BRIDGE EXAMPLE/you-picture.png)
+![](BRIDGE EXAMPLE/bridge.png)
 
 - E     	= 2.6x106 tonf/m2 (Modulo de elasticidad)
 - v     	= 0.20                 	(Coeficiente de poisson)
